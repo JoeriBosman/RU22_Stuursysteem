@@ -106,8 +106,8 @@ BO_ 512 Test_berichten: 2 Vector__XXX
  SG_ Pot2 : 8|8@1+ (1,0) [0|255] "Volt" Vector__XXX
 
 BO_ 513 Stuur_systeem: 2 Stuursysteem
- SG_ Steering_angle_actual : 0|8@1- (0.5,0) [-128|127] "°"  RES,Datalogger,Remsysteem,Stuursysteem,Powertrain,AutonoomRegelsysteem
- SG_ Steering_angle_target : 8|8@1- (0.5,0) [-128|127] "°"  RES,Datalogger,Remsysteem,Stuursysteem,Powertrain,AutonoomRegelsysteem
+ SG_ Steering_angle_actual : 0|8@1- (0.5,0) [-128|127] "Â°"  RES,Datalogger,Remsysteem,Stuursysteem,Powertrain,AutonoomRegelsysteem
+ SG_ Steering_angle_target : 8|8@1- (0.5,0) [-128|127] "Â°"  RES,Datalogger,Remsysteem,Stuursysteem,Powertrain,AutonoomRegelsysteem
 
 
 
